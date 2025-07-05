@@ -1,0 +1,25 @@
+{
+  "name": "Sistema Control de Permisos",
+  "short_name": "Permisos",
+  "description": "Sistema de gestión de permisos y vacaciones del personal",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#667eea",
+  "theme_color": "#3498db",
+  "orientation": "portrait",
+  "scope": "./",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect fill='%233498db' width='100' height='100' rx='20'/%3E%3Ctext y='70' font-size='60' text-anchor='middle' x='50' fill='white'%3E📋%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect fill='%233498db' width='100' height='100' rx='20'/%3E%3Ctext y='70' font-size='60' text-anchor='middle' x='50' fill='white'%3E📋%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
